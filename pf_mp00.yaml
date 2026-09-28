@@ -648,7 +648,7 @@ issue_status:
   owner: jgattaca29
   ok: false
   status_oneline: Could not parse issue title
-  branch: null
+  branch: main
 - number: 68
   owner: dceesay2100
   ok: false
